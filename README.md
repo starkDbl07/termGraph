@@ -1,0 +1,2 @@
+# termGraph
+Graphing in Terminal
